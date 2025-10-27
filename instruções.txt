@@ -1,0 +1,3 @@
+rodar o app.py através de streamlit
+
+python -m streamlit run app.py
